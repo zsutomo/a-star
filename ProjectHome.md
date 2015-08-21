@@ -1,0 +1,1 @@
+Pathfinding algorithm for games, available in two ports: C++ and Java.
